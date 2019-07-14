@@ -5,7 +5,7 @@ public class Main{
         if (array==null){
           System.out.print("Tortoise A is faster than tortoise B");
         }else{
-          System.out.print(array[2] + ":" + array[1] + ":" + array[0] );
+          System.out.print(array[0] + ":" + array[1] + ":" + array[2] );
         }
         
      }
